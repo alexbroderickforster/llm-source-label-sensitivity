@@ -1,0 +1,89 @@
+{
+ "score_selectivity_DiD_pp": {
+  "claude-sonnet-5-5": [
+   13.7,
+   5.1,
+   22.7
+  ],
+  "gemini-3.8-flash": [
+   27.9,
+   19.5,
+   36.3
+  ],
+  "gpt-5.4-mini-2026-03-17": [
+   8.0,
+   2.4,
+   13.7
+  ],
+  "qwen/qwen3.8-27b": [
+   9.0,
+   1.0,
+   17.0
+  ]
+ },
+ "true_label_selectivity_DiD_pp": {
+  "claude-sonnet-5-5": [
+   0.3,
+   -8.2,
+   8.4
+  ],
+  "gemini-3.8-flash": [
+   2.0,
+   -4.6,
+   8.2
+  ],
+  "gpt-5.4-mini-2026-03-17": [
+   5.2,
+   -0.5,
+   10.9
+  ],
+  "qwen/qwen3.8-27b": [
+   7.2,
+   -1.4,
+   15.7
+  ]
+ },
+ "attribution_share_S_mentioned_pct": {
+  "claude-sonnet-5-5": {
+   "A1": 52.6,
+   "A2": 73.3,
+   "A5": 73.2
+  },
+  "gemini-3.8-flash": {
+   "A1": 14.7,
+   "A2": 20.6,
+   "A5": 46.1
+  },
+  "gpt-5.4-mini-2026-03-17": {
+   "A1": 36.7,
+   "A2": 41.5,
+   "A5": 39.8
+  },
+  "qwen/qwen3.8-27b": {
+   "A1": 24.1,
+   "A2": 40.3,
+   "A5": 46.3
+  }
+ },
+ "human_codes_total": 424,
+ "human_codes_with_judge": 404,
+ "human_answers_with_judge": 46,
+ "kappa_binary": [
+  0.575,
+  0.461,
+  0.674
+ ],
+ "human_fact_judge_attributed": {
+  "total": 37,
+  "quoted_actor": 23
+ },
+ "human_absent_judge_fact": {
+  "total": 29,
+  "fact_type": 25
+ },
+ "kappa_binary_excluding_quoted_actor_exploratory": 0.623,
+ "spontaneous_state_outlet_naming_A1": {
+  "n_answers": 320,
+  "n_named": 0
+ }
+}

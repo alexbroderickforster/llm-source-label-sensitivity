@@ -1,0 +1,10 @@
+requests
+trafilatura
+pandas
+scikit-learn
+python-dateutil
+# Harness provider adapters (only imported on explicit --execute).
+anthropic
+openai
+ftfy
+matplotlib

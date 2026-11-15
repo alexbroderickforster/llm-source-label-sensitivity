@@ -1,0 +1,1745 @@
+{
+ "B001|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:26:11+00:00"
+ },
+ "B001|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:26:25+00:00"
+ },
+ "B001|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:26:43+00:00"
+ },
+ "B001|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:35:04+00:00"
+ },
+ "B001|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:35:11+00:00"
+ },
+ "B001|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:35:32+00:00"
+ },
+ "B001|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T14:38:20+00:00"
+ },
+ "B002|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T14:41:20+00:00"
+ },
+ "B002|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:43:02+00:00"
+ },
+ "B002|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T14:43:34+00:00"
+ },
+ "B002|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T14:44:05+00:00"
+ },
+ "B002|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:44:50+00:00"
+ },
+ "B002|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:44:53+00:00"
+ },
+ "B002|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:45:42+00:00"
+ },
+ "B002|E8": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T14:48:25+00:00",
+  "attributed_to": "President Miguel Díaz-Canel"
+ },
+ "B002|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T14:48:25+00:00"
+ },
+ "B003|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:51:27+00:00"
+ },
+ "B003|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T14:52:25+00:00",
+  "attributed_to": "Daniel Noboa"
+ },
+ "B003|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:53:09+00:00"
+ },
+ "B003|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:53:14+00:00"
+ },
+ "B003|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:59:26+00:00"
+ },
+ "B003|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T14:59:45+00:00"
+ },
+ "B003|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:00:51+00:00"
+ },
+ "B003|E8": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:05:49+00:00",
+  "attributed_to": "Daniel Noboa"
+ },
+ "B003|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:05:49+00:00"
+ },
+ "B003|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:06:13+00:00"
+ },
+ "B004|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:09:49+00:00"
+ },
+ "B004|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:09:56+00:00"
+ },
+ "B004|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:02+00:00"
+ },
+ "B004|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:10+00:00"
+ },
+ "B004|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:13+00:00"
+ },
+ "B004|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:16+00:00"
+ },
+ "B004|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:31+00:00"
+ },
+ "B004|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:36+00:00"
+ },
+ "B004|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:39+00:00"
+ },
+ "B004|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:10:47+00:00"
+ },
+ "B005|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:22:01+00:00"
+ },
+ "B005|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:33:22+00:00"
+ },
+ "B005|E3": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:35:40+00:00",
+  "attributed_to": "RT"
+ },
+ "B005|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:36:58+00:00"
+ },
+ "B005|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:37:17+00:00"
+ },
+ "B005|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:37:26+00:00"
+ },
+ "B005|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:38:24+00:00"
+ },
+ "B005|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:38:56+00:00"
+ },
+ "B005|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:39:29+00:00"
+ },
+ "B005|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:39:48+00:00"
+ },
+ "B010|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:44:18+00:00"
+ },
+ "B010|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:44:43+00:00"
+ },
+ "B010|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:45:03+00:00"
+ },
+ "B010|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:45:15+00:00"
+ },
+ "B010|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:45:24+00:00"
+ },
+ "B010|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:46:36+00:00",
+  "attributed_to": "the article"
+ },
+ "B010|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:48:29+00:00"
+ },
+ "B010|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:48:54+00:00"
+ },
+ "B010|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:49:06+00:00"
+ },
+ "B010|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:49:26+00:00"
+ },
+ "B011|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:52:45+00:00"
+ },
+ "B011|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T15:52:51+00:00"
+ },
+ "B011|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T15:54:36+00:00"
+ },
+ "B011|E4": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:55:15+00:00",
+  "attributed_to": "La República"
+ },
+ "B011|E5": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:56:17+00:00",
+  "attributed_to": "RT en Español"
+ },
+ "B011|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:56:58+00:00",
+  "attributed_to": "La República"
+ },
+ "B011|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:57:21+00:00",
+  "attributed_to": "RT en Español"
+ },
+ "B011|E8": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:58:29+00:00",
+  "attributed_to": "La República"
+ },
+ "B011|E9": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T15:58:59+00:00",
+  "attributed_to": "RT"
+ },
+ "B013|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:02:29+00:00"
+ },
+ "B013|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:02:49+00:00"
+ },
+ "B013|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:03:33+00:00"
+ },
+ "B013|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:04:03+00:00"
+ },
+ "B013|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:04:41+00:00"
+ },
+ "B013|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:05:00+00:00"
+ },
+ "B013|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:05:57+00:00"
+ },
+ "B013|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:06:36+00:00"
+ },
+ "B013|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:06:53+00:00"
+ },
+ "B013|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:07:09+00:00"
+ },
+ "B006|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:54:54+00:00"
+ },
+ "B006|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:55:08+00:00"
+ },
+ "B006|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:55:33+00:00"
+ },
+ "B006|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:56:25+00:00"
+ },
+ "B006|E5": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T16:57:03+00:00"
+ },
+ "B006|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:57:49+00:00"
+ },
+ "B006|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:58:04+00:00"
+ },
+ "B006|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T16:58:43+00:00"
+ },
+ "B006|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:59:02+00:00"
+ },
+ "B006|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T16:59:20+00:00"
+ },
+ "B009|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:06:22+00:00"
+ },
+ "B009|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:14:26+00:00"
+ },
+ "B009|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:14:41+00:00"
+ },
+ "B009|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:14:54+00:00"
+ },
+ "B009|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:15:02+00:00"
+ },
+ "B009|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:15:27+00:00"
+ },
+ "B009|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:17:10+00:00"
+ },
+ "B020|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:18:42+00:00"
+ },
+ "B020|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:19:08+00:00"
+ },
+ "B020|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:19:21+00:00"
+ },
+ "B020|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:19:23+00:00"
+ },
+ "B020|E5": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T17:19:56+00:00"
+ },
+ "B020|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:20:09+00:00"
+ },
+ "B020|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:20:21+00:00"
+ },
+ "B020|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:20:26+00:00"
+ },
+ "B020|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:20:50+00:00"
+ },
+ "B028|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:23:27+00:00"
+ },
+ "B028|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:23:39+00:00"
+ },
+ "B028|E3": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:23:54+00:00",
+  "attributed_to": "RT"
+ },
+ "B028|E4": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:24:12+00:00",
+  "attributed_to": "RT"
+ },
+ "B028|E5": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T17:24:29+00:00"
+ },
+ "B028|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:25:01+00:00",
+  "attributed_to": "RT"
+ },
+ "B028|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:25:41+00:00",
+  "attributed_to": "EFE"
+ },
+ "B028|E8": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:25:58+00:00",
+  "attributed_to": "EFE"
+ },
+ "B028|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:26:34+00:00"
+ },
+ "B007|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:27:51+00:00"
+ },
+ "B007|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:28:31+00:00"
+ },
+ "B007|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:29:10+00:00"
+ },
+ "B007|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:29:28+00:00"
+ },
+ "B007|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:29:36+00:00"
+ },
+ "B007|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:29:50+00:00"
+ },
+ "B007|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:30:07+00:00"
+ },
+ "B007|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:30:22+00:00"
+ },
+ "B007|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:30:28+00:00"
+ },
+ "B007|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:30:51+00:00"
+ },
+ "B012|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:31:55+00:00"
+ },
+ "B012|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:32:08+00:00"
+ },
+ "B012|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:32:13+00:00"
+ },
+ "B012|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:32:21+00:00"
+ },
+ "B012|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:32:46+00:00"
+ },
+ "B012|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:33:02+00:00"
+ },
+ "B023|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:35:03+00:00"
+ },
+ "B023|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:35:08+00:00"
+ },
+ "B023|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:35:41+00:00"
+ },
+ "B023|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:36:01+00:00"
+ },
+ "B023|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:36:16+00:00"
+ },
+ "B023|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:36:29+00:00"
+ },
+ "B023|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:36:42+00:00"
+ },
+ "B029|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:39:13+00:00"
+ },
+ "B029|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:39:27+00:00",
+  "attributed_to": "ICE"
+ },
+ "B029|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:40:54+00:00",
+  "attributed_to": ""
+ },
+ "B029|E4": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:41:19+00:00",
+  "attributed_to": "RT"
+ },
+ "B029|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:41:29+00:00"
+ },
+ "B029|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:41:46+00:00",
+  "attributed_to": "ICE"
+ },
+ "B029|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:41:55+00:00"
+ },
+ "B029|E8": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:42:33+00:00",
+  "attributed_to": "RT"
+ },
+ "B029|E9": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:42:49+00:00",
+  "attributed_to": "ICE"
+ },
+ "B029|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:43:09+00:00"
+ },
+ "B008|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:43:33+00:00"
+ },
+ "B008|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:43:53+00:00"
+ },
+ "B008|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:44:00+00:00"
+ },
+ "B008|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:44:11+00:00"
+ },
+ "B008|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:44:18+00:00"
+ },
+ "B008|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:44:24+00:00"
+ },
+ "B008|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:44:43+00:00"
+ },
+ "B015|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:45:20+00:00"
+ },
+ "B015|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:24+00:00"
+ },
+ "B015|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:45:45+00:00"
+ },
+ "B015|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:45:50+00:00"
+ },
+ "B015|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:46:01+00:00"
+ },
+ "B015|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:04+00:00"
+ },
+ "B015|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:10+00:00"
+ },
+ "B015|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:27+00:00"
+ },
+ "B015|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:41+00:00"
+ },
+ "B015|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:46:51+00:00"
+ },
+ "B024|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:48:18+00:00"
+ },
+ "B024|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:48:50+00:00"
+ },
+ "B024|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:49:38+00:00"
+ },
+ "B024|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:52:16+00:00"
+ },
+ "B024|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:52:57+00:00"
+ },
+ "B024|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:53:31+00:00"
+ },
+ "B024|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:53:41+00:00"
+ },
+ "B024|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:54:08+00:00"
+ },
+ "B024|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:54:40+00:00"
+ },
+ "B024|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:55:28+00:00"
+ },
+ "B032|E1": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:58:44+00:00",
+  "attributed_to": "AFP"
+ },
+ "B032|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T17:59:23+00:00",
+  "attributed_to": "AFP"
+ },
+ "B032|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T17:59:36+00:00"
+ },
+ "B032|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T17:59:57+00:00"
+ },
+ "B032|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:00:35+00:00"
+ },
+ "B032|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:00:52+00:00",
+  "attributed_to": "AFP"
+ },
+ "B032|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:01:03+00:00",
+  "attributed_to": "AFP"
+ },
+ "B014|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:01:58+00:00"
+ },
+ "B014|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:02:06+00:00"
+ },
+ "B014|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:02:12+00:00"
+ },
+ "B014|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:02:21+00:00"
+ },
+ "B014|E5": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:02:48+00:00",
+  "attributed_to": "ICE"
+ },
+ "B014|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:02:57+00:00"
+ },
+ "B014|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:03:02+00:00"
+ },
+ "B014|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:03:06+00:00"
+ },
+ "B014|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:03:20+00:00"
+ },
+ "B014|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:03:34+00:00"
+ },
+ "B016|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:11:03+00:00"
+ },
+ "B016|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:09:25+00:00"
+ },
+ "B016|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:09:34+00:00"
+ },
+ "B016|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:09:49+00:00"
+ },
+ "B016|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:11:31+00:00"
+ },
+ "B016|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:11:41+00:00"
+ },
+ "B016|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:11:49+00:00"
+ },
+ "B016|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:11:50+00:00"
+ },
+ "B025|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:14:19+00:00"
+ },
+ "B025|E2": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T18:15:32+00:00"
+ },
+ "B025|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:15:45+00:00"
+ },
+ "B025|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:17:15+00:00"
+ },
+ "B025|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:17:25+00:00"
+ },
+ "B025|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:17:36+00:00"
+ },
+ "B025|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:18:00+00:00"
+ },
+ "B025|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:18:33+00:00"
+ },
+ "B025|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:18:50+00:00"
+ },
+ "B039|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:26:36+00:00"
+ },
+ "B039|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:25:02+00:00",
+  "attributed_to": "RT"
+ },
+ "B039|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:25:27+00:00"
+ },
+ "B039|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:25:47+00:00"
+ },
+ "B039|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:25:49+00:00"
+ },
+ "B039|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:26:26+00:00"
+ },
+ "B017|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:27:44+00:00"
+ },
+ "B017|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:28:28+00:00",
+  "attributed_to": "Cuban government"
+ },
+ "B017|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:28:43+00:00"
+ },
+ "B017|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:29:08+00:00"
+ },
+ "B017|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:29:16+00:00"
+ },
+ "B017|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:29:23+00:00"
+ },
+ "B017|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:29:53+00:00"
+ },
+ "B018|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:31:10+00:00"
+ },
+ "B018|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:31:38+00:00"
+ },
+ "B018|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:31:48+00:00"
+ },
+ "B018|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:32:45+00:00"
+ },
+ "B018|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:32:52+00:00"
+ },
+ "B018|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:33:26+00:00"
+ },
+ "B018|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:33:40+00:00"
+ },
+ "B018|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:33:48+00:00"
+ },
+ "B018|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:33:50+00:00"
+ },
+ "B027|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:36:43+00:00"
+ },
+ "B027|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:36:47+00:00"
+ },
+ "B027|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:36:52+00:00"
+ },
+ "B027|E4": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:37:25+00:00",
+  "attributed_to": "Perfil"
+ },
+ "B027|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:37:29+00:00"
+ },
+ "B027|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:37:52+00:00"
+ },
+ "B027|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:38:38+00:00"
+ },
+ "B027|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:39:02+00:00"
+ },
+ "B041|E1": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:42:02+00:00",
+  "attributed_to": "RT"
+ },
+ "B041|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:42:17+00:00"
+ },
+ "B041|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:42:52+00:00"
+ },
+ "B041|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:43:36+00:00"
+ },
+ "B041|E5": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:44:03+00:00",
+  "attributed_to": "RT"
+ },
+ "B041|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:44:39+00:00"
+ },
+ "B041|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:45:19+00:00",
+  "attributed_to": "El Universal"
+ },
+ "B041|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:45:34+00:00"
+ },
+ "B041|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:45:46+00:00"
+ },
+ "B019|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:48:38+00:00"
+ },
+ "B019|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:48:43+00:00"
+ },
+ "B019|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:48:49+00:00"
+ },
+ "B019|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:48:56+00:00"
+ },
+ "B019|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:49:11+00:00"
+ },
+ "B019|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:49:25+00:00"
+ },
+ "B019|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:49:34+00:00"
+ },
+ "B019|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:49:39+00:00"
+ },
+ "B019|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:50:04+00:00"
+ },
+ "B019|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:50:15+00:00"
+ },
+ "B022|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:51:34+00:00"
+ },
+ "B022|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:51:44+00:00"
+ },
+ "B022|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:51:49+00:00"
+ },
+ "B022|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:52:04+00:00"
+ },
+ "B022|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:52:13+00:00"
+ },
+ "B022|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:52:22+00:00"
+ },
+ "B022|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:52:34+00:00"
+ },
+ "B022|E8": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T18:52:48+00:00"
+ },
+ "B022|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:53:24+00:00"
+ },
+ "B022|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:53:59+00:00"
+ },
+ "B030|E1": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:57:29+00:00",
+  "attributed_to": "RT en Español"
+ },
+ "B030|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:58:00+00:00",
+  "attributed_to": "NTN24"
+ },
+ "B030|E3": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T18:58:14+00:00",
+  "attributed_to": "RT en Español"
+ },
+ "B030|E4": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T18:58:46+00:00"
+ },
+ "B030|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T18:59:08+00:00"
+ },
+ "B030|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T18:59:31+00:00"
+ },
+ "B030|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:00:24+00:00"
+ },
+ "B030|E8": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T19:00:48+00:00"
+ },
+ "B030|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:01:24+00:00"
+ },
+ "B045|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:04:26+00:00"
+ },
+ "B045|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:04:36+00:00"
+ },
+ "B045|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:04:49+00:00"
+ },
+ "B045|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:04:58+00:00"
+ },
+ "B045|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:05:03+00:00"
+ },
+ "B045|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:05:58+00:00"
+ },
+ "B045|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:06:18+00:00"
+ },
+ "B045|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:06:35+00:00"
+ },
+ "B045|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:07:47+00:00"
+ },
+ "B045|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:08:21+00:00"
+ },
+ "B021|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:09:30+00:00"
+ },
+ "B021|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:09:37+00:00"
+ },
+ "B021|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:09:42+00:00"
+ },
+ "B021|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:10:03+00:00"
+ },
+ "B021|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:10:11+00:00"
+ },
+ "B021|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:10:22+00:00"
+ },
+ "B021|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:10:35+00:00"
+ },
+ "B021|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:10:44+00:00"
+ },
+ "B021|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:10:55+00:00"
+ },
+ "B021|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:11:12+00:00"
+ },
+ "B026|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:13:24+00:00"
+ },
+ "B026|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:13:39+00:00"
+ },
+ "B026|E3": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T19:14:03+00:00",
+  "attributed_to": "RT"
+ },
+ "B026|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:14:12+00:00"
+ },
+ "B026|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:14:19+00:00"
+ },
+ "B026|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:14:28+00:00"
+ },
+ "B026|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:14:45+00:00"
+ },
+ "B026|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:16:00+00:00"
+ },
+ "B026|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:16:05+00:00"
+ },
+ "B033|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:18:11+00:00"
+ },
+ "B033|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:18:33+00:00"
+ },
+ "B033|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:18:44+00:00"
+ },
+ "B033|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:19:22+00:00"
+ },
+ "B033|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:19:56+00:00"
+ },
+ "B033|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:20:11+00:00"
+ },
+ "B033|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:20:18+00:00"
+ },
+ "B046|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:22:13+00:00"
+ },
+ "B046|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:22:32+00:00"
+ },
+ "B046|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:22:46+00:00"
+ },
+ "B046|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:23:01+00:00"
+ },
+ "B046|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:23:10+00:00"
+ },
+ "B046|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:23:14+00:00"
+ },
+ "B046|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T19:23:39+00:00",
+  "attributed_to": "RT"
+ },
+ "B046|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:23:55+00:00"
+ },
+ "B046|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:24:13+00:00"
+ },
+ "B046|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:24:33+00:00"
+ },
+ "B031|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:24:44+00:00"
+ },
+ "B031|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:24:51+00:00"
+ },
+ "B031|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:25:16+00:00"
+ },
+ "B031|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:25:33+00:00"
+ },
+ "B031|E5": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T19:26:39+00:00",
+  "attributed_to": "Cuban authorities"
+ },
+ "B031|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:26:47+00:00"
+ },
+ "B031|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:27:00+00:00"
+ },
+ "B035|E1": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T19:28:42+00:00",
+  "attributed_to": "RT"
+ },
+ "B035|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:28:48+00:00"
+ },
+ "B035|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:29:30+00:00"
+ },
+ "B035|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:29:44+00:00"
+ },
+ "B035|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:29:57+00:00"
+ },
+ "B035|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:30:44+00:00"
+ },
+ "B035|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:30:57+00:00"
+ },
+ "B035|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:31:12+00:00"
+ },
+ "B035|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:31:36+00:00"
+ },
+ "B035|E10": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:31:50+00:00"
+ },
+ "B036|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:37:01+00:00"
+ },
+ "B036|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:37:18+00:00"
+ },
+ "B036|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:37:39+00:00"
+ },
+ "B036|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:37:54+00:00"
+ },
+ "B036|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:38:01+00:00"
+ },
+ "B036|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T19:38:07+00:00"
+ },
+ "B036|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:38:27+00:00"
+ },
+ "B036|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:38:52+00:00"
+ },
+ "B036|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:39:10+00:00"
+ },
+ "B036|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T19:39:21+00:00"
+ },
+ "B052|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:06:54+00:00"
+ },
+ "B052|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:07:16+00:00"
+ },
+ "B052|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:08:08+00:00"
+ },
+ "B052|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:08:24+00:00"
+ },
+ "B052|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:09:09+00:00"
+ },
+ "B052|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:09:27+00:00"
+ },
+ "B052|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:09:40+00:00"
+ },
+ "B052|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:10:06+00:00"
+ },
+ "B052|E9": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:10:26+00:00",
+  "attributed_to": "RT"
+ },
+ "B052|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:10:50+00:00"
+ },
+ "B034|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:12:23+00:00"
+ },
+ "B034|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:12:31+00:00"
+ },
+ "B034|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:12:40+00:00"
+ },
+ "B034|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:12:56+00:00"
+ },
+ "B034|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:12:59+00:00"
+ },
+ "B034|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:13:06+00:00"
+ },
+ "B034|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:13:27+00:00"
+ },
+ "B034|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:13:39+00:00"
+ },
+ "B038|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:15:22+00:00"
+ },
+ "B038|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:15:45+00:00"
+ },
+ "B038|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:16:03+00:00"
+ },
+ "B038|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:17:18+00:00"
+ },
+ "B038|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:17:27+00:00"
+ },
+ "B038|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:18:06+00:00"
+ },
+ "B038|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:18:15+00:00"
+ },
+ "B038|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:18:28+00:00"
+ },
+ "B038|E9": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:18:44+00:00"
+ },
+ "B048|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:20:11+00:00"
+ },
+ "B048|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:20:16+00:00"
+ },
+ "B048|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:20:21+00:00"
+ },
+ "B048|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:21:07+00:00"
+ },
+ "B048|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:21:21+00:00"
+ },
+ "B048|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:21:27+00:00"
+ },
+ "B048|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:21:31+00:00"
+ },
+ "B054|E1": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:22:21+00:00"
+ },
+ "B054|E2": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:22:24+00:00"
+ },
+ "B054|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:22:44+00:00"
+ },
+ "B054|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:22:52+00:00"
+ },
+ "B054|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:23:04+00:00"
+ },
+ "B054|E6": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:23:43+00:00",
+  "attributed_to": "Article 1"
+ },
+ "B054|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:24:29+00:00",
+  "attributed_to": "Article 2"
+ },
+ "B054|E8": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:24:29+00:00"
+ },
+ "B037|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:25:19+00:00"
+ },
+ "B037|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:25:21+00:00"
+ },
+ "B037|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:25:26+00:00"
+ },
+ "B037|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:25:37+00:00"
+ },
+ "B037|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:25:51+00:00"
+ },
+ "B037|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:25:53+00:00"
+ },
+ "B037|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:25:55+00:00"
+ },
+ "B037|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:26:08+00:00"
+ },
+ "B037|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:26:20+00:00"
+ },
+ "B042|E1": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:27:11+00:00",
+  "attributed_to": "Article 1"
+ },
+ "B042|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:27:51+00:00"
+ },
+ "B042|E3": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:28:06+00:00"
+ },
+ "B042|E4": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:28:18+00:00"
+ },
+ "B042|E5": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:28:31+00:00"
+ },
+ "B042|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:28:41+00:00"
+ },
+ "B042|E7": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:28:59+00:00"
+ },
+ "B042|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:29:26+00:00"
+ },
+ "B049|E1": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:31:11+00:00"
+ },
+ "B049|E2": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:31:17+00:00"
+ },
+ "B049|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:31:38+00:00"
+ },
+ "B049|E4": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:31:53+00:00"
+ },
+ "B049|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:32:02+00:00"
+ },
+ "B049|E6": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:32:12+00:00"
+ },
+ "B049|E7": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:32:19+00:00"
+ },
+ "B049|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:32:30+00:00"
+ },
+ "B049|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:33:09+00:00"
+ },
+ "B049|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:33:36+00:00"
+ },
+ "B059|E1": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T20:34:43+00:00",
+  "attributed_to": "Article 1"
+ },
+ "B059|E2": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:35:27+00:00",
+  "attributed_to": "Marco Antonio Oviedo"
+ },
+ "B059|E3": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:36:25+00:00"
+ },
+ "B059|E4": {
+  "code": "CONTESTED",
+  "coded_at": "2026-11-15T20:37:54+00:00"
+ },
+ "B059|E5": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:38:33+00:00"
+ },
+ "B059|E6": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:39:19+00:00"
+ },
+ "B059|E7": {
+  "code": "ATTRIBUTED",
+  "coded_at": "2026-11-15T20:40:00+00:00",
+  "attributed_to": "Oviedo"
+ },
+ "B059|E8": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:40:02+00:00"
+ },
+ "B059|E9": {
+  "code": "ENDORSED",
+  "coded_at": "2026-11-15T20:40:42+00:00"
+ },
+ "B059|E10": {
+  "code": "ABSENT",
+  "coded_at": "2026-11-15T20:42:17+00:00"
+ }
+}
