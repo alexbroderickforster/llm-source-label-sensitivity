@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Flagged but Repeated: \"Russian state media\" labels do little to change what AI models repeat"
+authors:
+  - family-names: "Broderick-Forster"
+    given-names: "Alex"
+year: 2026
+date-released: "2026-11-15"
+repository-code: "https://github.com/alexbroderickforster/llm-source-label-sensitivity"
+url: "https://github.com/alexbroderickforster/llm-source-label-sensitivity"
+license: MIT
+type: software
+keywords:
+  - ai-safety
+  - llm-evaluation
+  - misinformation
+  - provenance-labels
+abstract: "Pre-registered experiment testing whether provenance labels (e.g. 'Russian state media') change how much state-media content LLMs repeat as fact. Results provisional. Submitted to the Apart Research AI x Epistemics Sprint, November 2026."
