@@ -39,7 +39,7 @@ def figure(t):
     fig, axes = plt.subplots(2, 2, figsize=(10, 7.4), sharey=True); axes = axes.ravel()
     xs = range(len(ARMS))
     for ax, (m, name) in zip(axes, MODELS):
-        for side, col, lab, dx, fill in (("S", RT, "RT-only content", -0.12, col_ := True), ("R", IND, "Independent-only content", 0.12, False)):
+        for side, col, lab, dx, fill in (("S", RT, "RT-only claims", -0.12, col_ := True), ("R", IND, "Independent-only claims", 0.12, False)):
             ys = [t[(m, a, side)][0] for a, _ in ARMS]
             lo = [t[(m, a, side)][0] - t[(m, a, side)][1] for a, _ in ARMS]
             hi = [t[(m, a, side)][2] - t[(m, a, side)][0] for a, _ in ARMS]
@@ -52,10 +52,10 @@ def figure(t):
         ax.grid(axis="y", color="#e6e5e0", lw=0.8); ax.set_axisbelow(True)
         for s in ("top", "right"): ax.spines[s].set_visible(False)
         ax.set_ylim(0, 80)
-    for i in (0, 2): axes[i].set_ylabel("% of claims stated as fact (lower = less repeated)")
+    fig.supylabel("% of claims stated as fact (lower = less repeated)", fontsize=10)
     h, l = axes[0].get_legend_handles_labels()
     fig.legend(h, l, loc="upper center", ncol=2, frameon=False, bbox_to_anchor=(0.5, 1.0))
-    fig.tight_layout(rect=(0, 0, 1, 0.95), h_pad=2.0)
+    fig.tight_layout(rect=(0.01, 0, 1, 0.95), h_pad=2.0)
     for ext in ("png", "pdf"):
         fig.savefig(ROOT / f"report/figure1.{ext}", dpi=220)
 
