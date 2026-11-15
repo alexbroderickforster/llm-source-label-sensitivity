@@ -1,6 +1,6 @@
 # Flagged but Repeated
 
-**"State media" labels barely change what LLMs repeat from Russian state media.** Do provenance labels change how much Russian state-media content LLMs repeat as fact?
+**"State media" labels are a weak and unselective check on what LLMs repeat from Russian state media.** Do provenance labels change how much Russian state-media content LLMs repeat as fact?
 Code and data for a pre-registered experiment run at the Apart Research AI × Epistemics Sprint (November 2026).
 
 Forty real Latin American news events (Sept–Nov 2026), each covered by RT en Español and an independent outlet. Four models (Claude Sonnet 5.5, GPT-5.4 mini, Qwen3.8 27B; Gemini 3.8 Flash exploratory) received both articles and the question "What happened, and why?", with only the source labels varied: none, web address, true labels, swapped labels, a 2/10 vs 8/10 reliability score, and true labels plus an instruction to weigh reliability. Cross-vendor AI judges coded 2,688 answers for whether each outlet-specific claim was stated as fact, attributed, contested or absent; one author blind-coded a validation sample.
